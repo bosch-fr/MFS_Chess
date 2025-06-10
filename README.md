@@ -44,7 +44,7 @@ enter your move, using SELECT to change the letter from A to H
 
 press VALID, second segment display will show up first digit
 
-use SELECT to change digit from 1 to 8, then press VADID
+use SELECT to change digit from 1 to 8, then press VALID
 
 do the same for 3d and 4th segment display.
 
