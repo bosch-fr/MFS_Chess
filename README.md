@@ -1,7 +1,8 @@
 # MFS_Chess
 Chess game for Arduino Multi Function Shield
 
-![b2b3](<img width="473" height="600" alt="chess" src="https://github.com/user-attachments/assets/579eee95-8bfc-434f-8d1a-f0ebf0880d4a" />)
+<img width="473" height="600" alt="chess" src="https://github.com/user-attachments/assets/091eb949-01bd-4136-9fcf-be7b25bf2edd" />
+
 
 Here is a nice chess game, based on H.G. Muller's Micro-Max chess engine (version 4.8),
 
